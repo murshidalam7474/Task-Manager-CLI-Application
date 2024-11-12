@@ -20,5 +20,7 @@ To access the application, use the following login credentials:
 ## How to Run the Application
 1. **Clone the repository**:
    ```bash
-   git clone <https://github.com/murshidalam7474/Task-Manager-CLI-Application/>
+   git clone <https://github.com/murshidalam7474/Task-Manager-CLI-Application/blob/master/task_manager.py>
    cd task_manager
+2. **cd to task_manager.py run thre below cmd in terminal**:
+      python task_manager.py 
